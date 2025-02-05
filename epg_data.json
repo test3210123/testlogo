@@ -1753,6 +1753,14 @@
       "logo": "http://epg.51zmt.top:8000/tb1/qt/kaku.png"
     },
     {
+      "tvid": "2201",
+      "epgid": "BTV体育",
+      "name": "BTV体育",
+      "status": "1",
+      "note": "BTV体育",
+      "logo": "http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png"
+    },
+    {
       "tvid": "220",
       "epgid": "BTV文艺",
       "name": "BTV文艺",
