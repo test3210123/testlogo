@@ -604,6 +604,13 @@
       "note": "CHC高清电影"
     },
     {
+      "tvid": "92",
+      "epgid": "青海卫视",
+      "name": "青海卫视",
+      "status": "1",
+      "note": "青海卫视"
+    },
+    {
       "tvid": "122",
       "epgid": "NewTVdzdy",
       "name": "NEWTV动作电影,NewTV动作电影,动作电影",
