@@ -1,5 +1,5 @@
 {
-  "defUrl": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/{name}.png",
+  "defUrl": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/{name}.png",
   "epgs": [
     {
       "tvid": "1",
@@ -440,85 +440,85 @@
       "tvid": "93",
       "epgid": "斗鱼1-周星驰",
       "name": "斗鱼1-周星驰",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/dyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/dyzb.png"
     },
     {
       "tvid": "94",
       "epgid": "斗鱼2-林正英",
       "name": "斗鱼2-林正英",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/dyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/dyzb.png"
     },
     {
       "tvid": "95",
       "epgid": "斗鱼3-恐怖电影",
       "name": "斗鱼3-恐怖电影",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/dyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/dyzb.png"
     },
     {
       "tvid": "96",
       "epgid": "斗鱼4-华语经典",
       "name": "斗鱼4-华语经典",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/dyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/dyzb.png"
     },
     {
       "tvid": "97",
       "epgid": "斗鱼5-经典巨制",
       "name": "斗鱼5-经典巨制",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/dyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/dyzb.png"
     },
     {
       "tvid": "98",
       "epgid": "斗鱼6-科幻动作",
       "name": "斗鱼6-科幻动作",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/dyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/dyzb.png"
     },
     {
       "tvid": "99",
       "epgid": "斗鱼19-欧美电影",
       "name": "斗鱼19-欧美电影",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/dyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/dyzb.png"
     },
     {
       "tvid": "401",
       "epgid": "虎牙1-周星驰",
       "name": "虎牙1-周星驰",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/hyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/hyzb.png"
     },
     {
       "tvid": "402",
       "epgid": "虎牙2-林正英",
       "name": "虎牙2-林正英",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/hyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/hyzb.png"
     },
     {
       "tvid": "403",
       "epgid": "虎牙3-恐怖电影",
       "name": "虎牙3-恐怖电影",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/hyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/hyzb.png"
     },
     {
       "tvid": "404",
       "epgid": "虎牙4-华语经典",
       "name": "虎牙4-华语经典",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/hyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/hyzb.png"
     },
     {
       "tvid": "405",
       "epgid": "虎牙5-经典巨制",
       "name": "虎牙5-经典巨制",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/hyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/hyzb.png"
     },
     {
       "tvid": "406",
       "epgid": "虎牙6-科幻动作",
       "name": "虎牙6-科幻动作",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/hyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/hyzb.png"
     },
     {
       "tvid": "407",
       "epgid": "虎牙19-欧美电影",
       "name": "虎牙19-欧美电影",
-      "logo": "https://gh-proxy.net/https://raw.githubusercontent.com/test3210123/testlogo/refs/heads/master/logo/hyzb.png"
+      "logo": "https://fastly.jsdelivr.net/gh/test3210123/testlogo@master/logo/hyzb.png"
     },
     {
       "tvid": "100",
